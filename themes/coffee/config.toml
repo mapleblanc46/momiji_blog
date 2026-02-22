@@ -1,7 +1,5 @@
-theme = "coffee"
-
 # The URL the site will be built for
-base_url = "/"
+base_url = "https://zola-coffee-theme.netlify.app"
 
 # The site title and description; used in feeds by default.
 title = "coffee"
@@ -80,7 +78,7 @@ taxonomies = "off"
 # When true, content/posts/2016-10-08_a-post-with-dates.md => posts/2016-10-08-a-post-with-dates
 paths_keep_dates = true
 
-[extra.coffee] #<- CAUTION: You have to be [extra.coffee], not [extra].
+[extra.coffee]
 # default value: 'en'
 lang = "en"
 # default value: 'blog'
