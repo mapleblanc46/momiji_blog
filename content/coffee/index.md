@@ -1,7 +1,6 @@
 +++
 title = "coffee"
 date = 2025-08-19
-authors = ["Myxogastria0808"]
 [taxonomies]
 tags = ["coffee"]
 +++

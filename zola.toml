@@ -4,8 +4,8 @@ theme = "coffee"
 base_url = "/"
 
 # The site title and description; used in feeds by default.
-title = "coffee"
-description = "A simple theme for Zola inspired by coffee."
+title = "椛のブログ"
+description = "キュアアルカナ 可愛いよね"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -82,7 +82,7 @@ paths_keep_dates = true
 
 [extra.coffee] #<- CAUTION: You have to be [extra.coffee], not [extra].
 # default value: 'en'
-lang = "en"
+lang = "ja"
 # default value: 'blog'
 keyword = "blog"
 # default value: 'https://raw.githubusercontent.com/Myxogastria0808/coffee/heads/main/static/favicon.svg'
@@ -103,10 +103,7 @@ meta_image_height = "512"
 
 # default value is below
 about = """
-Hello, my name is <strong>Myxogastria0808.</strong><br/>
-I created a Zola theme named <strong>"coffee"</strong>.
-This template can be used <strong>mermaid</strong> and <strong>katex</strong>.
-<h4>Have a nice day!</h4>
+はなまるびっくり
 """
 # default value: 'https://raw.githubusercontent.com/Myxogastria0808/coffee/heads/main/static/coffee.webp'
 about_image = "https://raw.githubusercontent.com/Myxogastria0808/coffee/heads/main/static/coffee.webp"
