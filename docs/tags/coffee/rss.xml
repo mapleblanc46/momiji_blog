@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>椛のブログ - coffee</title>
+      <link>https://mapleblanc46.github.io/</link>
+      <description>キュアアルカナ 可愛いよね</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://mapleblanc46.github.io/tags/coffee/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Tue, 19 Aug 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>coffee</title>
+          <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://mapleblanc46.github.io/coffee/</link>
+          <guid>https://mapleblanc46.github.io/coffee/</guid>
+          <description xml:base="https://mapleblanc46.github.io/coffee/">&lt;p&gt;The best part of my morning is the quiet moment with a steaming mug of coffee.
+It’s a simple, potent reminder that a new day has truly begun.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;greeting&quot;&gt;Greeting&lt;&#x2F;h2&gt;
+&lt;p&gt;Hello, coffee lovers! ☕&lt;&#x2F;p&gt;
+&lt;p&gt;My name is Myxogastria0808, and I like coffee too!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-i-like-to-drink-coffee&quot;&gt;How I like to drink coffee&lt;&#x2F;h2&gt;
+&lt;p&gt;My favorite way to drink coffee is to add caramel flavored sugar to black coffee!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;coffee-logo&quot;&gt;Coffee logo&lt;&#x2F;h2&gt;
+&lt;p&gt;I create a logo for my blog theme named “coffee”.&lt;&#x2F;p&gt;
+    
+&lt;div class=&quot;img-box&quot;&gt;
+  &lt;img src=&quot;https:&#x2F;&#x2F;mapleblanc46.github.io&#x2F;processed_images&#x2F;coffee.f74efa5b1ad3c91e.webp&quot; width=&quot;100%&quot; &#x2F;&gt;
+&lt;&#x2F;div&gt;
+  
+</description>
+      </item>
+    </channel>
+</rss>

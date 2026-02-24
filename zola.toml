@@ -1,7 +1,10 @@
 theme = "coffee"
 
 # The URL the site will be built for
-base_url = "/"
+base_url = "https://mapleblanc46.github.io/"
+
+# For overriding the default output directory `public`, set it to another value (e.g.: "docs")
+output_dir = "docs"
 
 # The site title and description; used in feeds by default.
 title = "椛のブログ"
