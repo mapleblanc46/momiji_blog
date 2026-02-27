@@ -7,8 +7,8 @@ base_url = "https://mapleblanc46.github.io/"
 output_dir = "docs"
 
 # The site title and description; used in feeds by default.
-title = "椛のブログ"
-description = "キュアアルカナ 可愛いよね"
+title = "椛のブログ(仮称)"
+description = "見たな？金を払え、もしくは超かぐや姫！を観ろ"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -106,7 +106,11 @@ meta_image_height = "512"
 
 # default value is below
 about = """
-はなまるびっくり
+椛を名乗っています。
+<br>
+TRPG、ゲーム全般、ウマ娘、情報技術が好き。
+<br>
+X(旧Twitter)：@maple_blanc
 """
 # default value: 'https://raw.githubusercontent.com/Myxogastria0808/coffee/heads/main/static/coffee.webp'
 about_image = "https://raw.githubusercontent.com/Myxogastria0808/coffee/heads/main/static/coffee.webp"

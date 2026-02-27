@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-      <title>椛のブログ(仮称)</title>
+      <title>椛のブログ(仮称) - blog</title>
       <link>https://mapleblanc46.github.io/</link>
       <description>見たな？金を払え、もしくは超かぐや姫！を観ろ</description>
       <generator>Zola</generator>
       <language>en</language>
-      <atom:link href="https://mapleblanc46.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://mapleblanc46.github.io/tags/blog/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate>
       <item>
           <title>個人ブログを始めるにあたって</title>
